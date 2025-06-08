@@ -120,3 +120,7 @@ POST   /api/rotas
 - O projeto segue os princípios de arquitetura em camadas (**API**, **Application**, **Domain**, **Infrastructure**, **Test**).  
 - Utiliza **Clean Architecture** e princípios **SOLID**.  
 - Ideal para projetos acadêmicos e iniciativas de impacto social com foco em cidades inteligentes.
+
+-- INTEGRANTES DO PROJETO
+- RM 553941 - LORENZO AUGUSTO VAZ FRANCISCO
+- RM 553079 - GABRIEL  OLIVEIRA RODRIGUES DOS SANTOS
